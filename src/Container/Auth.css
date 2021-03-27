@@ -1,0 +1,19 @@
+  .loginModel {
+      margin: 20px 8px 8px 40px;
+      display: none;
+      font-style: normal;
+      font-variant: normal;
+      text-rendering: auto;
+      
+      position: absolute;
+      width: auto;
+  }
+
+  .visible {
+      display: block;
+  }
+  
+  .hide {
+      display: none;
+  }
+  
