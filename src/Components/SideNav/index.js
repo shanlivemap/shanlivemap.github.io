@@ -56,7 +56,7 @@ const SideNav = () => {
           fontSize: "15px",
           color: "white",
           padding: "0px 8px 8px 40px"
-        }}> Version 0.1 </h3>
+        }}> Version 0.10 </h3>
 
         <div>
           <Auth_Database
