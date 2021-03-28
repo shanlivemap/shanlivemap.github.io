@@ -50,7 +50,13 @@ const SideNav = () => {
         >
           &times;
         </div>
+
         <Link to="/home">Home</Link>
+        <h3 style={{
+          fontSize: "15px",
+          color: "white",
+          padding: "0px 8px 8px 40px"
+        }}> Version 0.1 </h3>
 
         <div>
           <Auth_Database
