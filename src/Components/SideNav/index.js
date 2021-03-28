@@ -55,8 +55,10 @@ const SideNav = () => {
         <h3 style={{
           fontSize: "15px",
           color: "white",
-          padding: "0px 8px 8px 40px"
-        }}> Version 0.10 </h3>
+          padding: "0px 8px 8px 40px",
+          display: "block",
+          textDecoration: "none"
+        }}> Version {process.env.REACT_APP_WEBAPP_VERSION} </h3>
 
         <div>
           <Auth_Database
