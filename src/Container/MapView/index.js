@@ -117,14 +117,7 @@ function MapView() {
               <option value="22.94083|97.74459" selected>လားရှိုး (Lashio)</option>
               <option value="16.8409|96.1735"> ရန်ကုန် (Yangon)</option>
               <option value="21.9588|96.0891"> မန္တလေး (Mandalay)</option>
-              <option value="24.1821769|96.329305">ကသာ (Kathar)</option>
-              <option value="22.1097701|95.1243952">မုံရွာ (Monywa)</option>
-              <option value="18.8239172|95.2247068">ပြည် (Pyay)</option>
-              <option value="17.3050582|96.4407641">ပဲခူး (Bago)</option>
-              <option value="16.9347022|97.3326008">သထုံ (Tha Htone) </option>
-              <option value="16.4537233|97.5891465">မော်လမြိုင်(MawlaMyine)</option>
               <option value="19.7633|96.0785">နေပြည်တော် (Naypyi Daw)</option>
-              <option value="14.0828|98.1940">ထားဝယ် (Dawei)</option>
             </select>
           </div>
         </div>
